@@ -65,3 +65,12 @@ go.work.sum
 
 # env file
 .env
+
+# logs
+logs/
+
+# vscode
+.vscode/
+
+# macos
+.DS_Store
